@@ -1,0 +1,184 @@
+{
+  "seller": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "name": "nitesh",
+      "email": "nitesh@123.com",
+      "password": "nitesh123",
+      "id": 3
+    },
+    {
+      "name": "nitesh kumar",
+      "email": "nitesh@11998.com",
+      "password": "nitesh1998",
+      "id": 4
+    },
+    {
+      "name": "Apples",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 5
+    },
+    {
+      "name": "Tomatoes",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 6
+    },
+    {
+      "name": "bread",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 7
+    },
+    {
+      "name": "Apples",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 8
+    },
+    {
+      "name": "Apples",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 9
+    },
+    {
+      "name": "peter",
+      "password": "09876",
+      "email": "peter@test.com",
+      "id": 10
+    },
+    {
+      "name": "peter",
+      "password": "09876",
+      "email": "peter@test.com",
+      "id": 11
+    },
+    {
+      "name": "peter",
+      "password": "09876",
+      "email": "peter@test.com",
+      "id": 12
+    },
+    {
+      "name": "T",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 13
+    },
+    {
+      "name": "T",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 14
+    },
+    {
+      "name": "Tomatoes",
+      "password": "0987",
+      "email": "tomatos@test.com",
+      "id": 15
+    },
+    {
+      "name": "",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 16
+    },
+    {
+      "name": "",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 17
+    },
+    {
+      "name": "",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 18
+    },
+    {
+      "name": "",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 19
+    },
+    {
+      "name": "",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 20
+    },
+    {
+      "name": "",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 21
+    },
+    {
+      "name": "peter",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 22
+    },
+    {
+      "name": "peter",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 23
+    },
+    {
+      "name": "peter",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 24
+    },
+    {
+      "name": "peter",
+      "password": "123456",
+      "email": "peter@test.com",
+      "id": 25
+    },
+    {
+      "name": "that",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 26
+    },
+    {
+      "name": "true",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 27
+    },
+    {
+      "name": "bread",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 28
+    },
+    {
+      "name": "bread",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 29
+    },
+    {
+      "name": "bread",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 30
+    },
+    {
+      "name": "bread",
+      "password": "123456",
+      "email": "test@test.com",
+      "id": 31
+    }
+  ]
+}
